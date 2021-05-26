@@ -16,7 +16,7 @@ I bot that will help you find the lyrics. Write the name of the song or the name
 
 To start using the bot, you need to start it by clicking the start button. You can also run the bot command to get started:
 
-</start>
+    /start
 
 ## How to use the bot
 
