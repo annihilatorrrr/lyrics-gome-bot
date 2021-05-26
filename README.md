@@ -22,7 +22,7 @@ To start using the bot, you need to start it by clicking the start button. You c
 
 Imagine that you want to find the lyrics of a song that you are listening to now. You have already started the bot to work. All you need to do is write the name of the song or the name of the artist.
 
-Let's look at the work of the bot on the example of the song "HUMBLE", which was written and sung by Kendrick Lamar. You can write in uppercase or lowercase letters.
+Let's look at the work of the bot on the example of the song "HUMBLE.", which was written and sung by Kendrick Lamar. You can write in uppercase or lowercase letters.
 
 Let's write "Humble" in our bot:
 
@@ -48,3 +48,12 @@ We will choose " HUMBLE. - Kendrick Lamar". Next, our bot will display the image
     D’USSÉ with my boo bae tastes like Kool-Aid for the analysts
     Girl, I can buy your ass the world with my paystub
     Ooh, that pussy good, won't you sit it on my taste bloods?
+    ...
+
+You can always read about the work of the bot by selecting in the command menu:
+
+    /help
+
+You can also support the developer by selecting the [/donate](https://yoomoney.ru/to/4100116813383560) command in the menu.
+
+We are happy to help you find the lyrics of your favorite songs or you just wanted to know what the artist sings about.
