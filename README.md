@@ -35,7 +35,7 @@ The bot will show us information about all the songs where the word "Humble" occ
     Humble and Kind - Tim McGraw
     Humble - Lil Baby
 
-We will choose " HUMBLE. - Kendrick Lamar". Next, our bot will display the image of the artist's song or album and the lyrics of the song.
+We will choose "HUMBLE. - Kendrick Lamar". Next, our bot will display the image of the artist's song or album and the lyrics of the song.
 
     Nobody pray for me
     It been that day for me
